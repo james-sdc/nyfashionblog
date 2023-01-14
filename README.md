@@ -1,1 +1,1 @@
-# projct-nyfashionblog
+# project-nyfashionblog

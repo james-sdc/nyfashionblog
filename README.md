@@ -1,1 +1,1 @@
-# project-nyfashionblog
+# Project New York Fashion Blog
